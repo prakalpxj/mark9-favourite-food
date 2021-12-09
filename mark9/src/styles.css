@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.img {
+  width: 250px;
+  display: block;
+  margin: auto;
+}
+
+.box {
+  border: 2px solid;
+  padding: 5px;
+  margin: 5px;
+}
+.heading {
+  font-size: 20px;
+  font-weight: bold;
+}
